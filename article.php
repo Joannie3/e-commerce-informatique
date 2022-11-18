@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+
+    nouvelle page article
+
     Ici c'est notre page avec la description de l'article
+
 </body>
 </html>
